@@ -1,0 +1,1 @@
+@"D:\Read_Learn\Python\LX\rest_learn\venv\Scripts\python.exe" "D:\Read_Learn\Python\LX\rest_learn\venv\Scripts\markdown_py" %*
